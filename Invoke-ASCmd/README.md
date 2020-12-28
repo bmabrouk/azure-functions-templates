@@ -1,4 +1,4 @@
-How to run invoke-ASCmd in simple http trigger function powershell runtime V 1~:
+How to run invoke-ASCmd in simple azure function with powershell runtime V 1~:
 
 it's a workaround to change runtime to 1.x and can import SqlServer modue with invoke-ASCmd which PowerShell version is 5.x that is what I needed :)
 
